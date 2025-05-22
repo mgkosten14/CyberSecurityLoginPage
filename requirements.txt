@@ -1,0 +1,7 @@
+pip
+Flask
+requests
+Werkzeug
+pytest
+nose
+tox
